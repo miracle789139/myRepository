@@ -1,0 +1,2 @@
+http://zh.sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial 
+注：此页面中的最后一个SQL练习题
