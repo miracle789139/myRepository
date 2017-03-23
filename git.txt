@@ -1,0 +1,21 @@
+gitÃüÁî£º
+git init
+git status
+git add .
+git commit -m "..."
+git push origin master
+git checkout branch
+git branch
+
+git log
+
+git checkout
+
+git reset --soft HEAD~
+
+git reset --mixed  HEAD~   (Ä¬ÈÏ·½Ê½)
+git reset HEAD~
+git reset HEAD~5
+
+git reset --hard HEAD~ 
+
