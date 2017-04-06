@@ -6,16 +6,11 @@ git commit -m "..."
 git push origin master
 git checkout branch
 git branch
-
 git log
-
 git checkout
-
 git reset --soft HEAD~
-
 git reset --mixed  HEAD~   (д╛хо╥╫й╫)
 git reset HEAD~
 git reset HEAD~5
-
 git reset --hard HEAD~ 
-
+git checkout -b myfeature
